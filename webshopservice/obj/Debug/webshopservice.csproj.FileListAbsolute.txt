@@ -1,0 +1,24 @@
+c:\users\toshko\documents\visual studio 2012\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+c:\users\toshko\documents\visual studio 2012\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+c:\users\toshko\documents\visual studio 2012\Projects\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+c:\users\toshko\documents\visual studio 2012\Projects\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+c:\users\toshko\documents\visual studio 2012\Projects\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\webshopservice\obj\Debug\webshopservice.csprojResolveAssemblyReference.cache
+D:\csa\webshopservice\webshopservice\obj\Debug\webshopservice.csprojResolveAssemblyReference.cache
+D:\csa\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+D:\csa\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+D:\csa\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+D:\csa\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+D:\csa\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+C:\Fontys\webshopservice\webshopservice\obj\Debug\webshopservice.csprojResolveAssemblyReference.cache
+C:\Fontys\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+C:\Fontys\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+C:\Fontys\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+C:\Fontys\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+C:\Fontys\webshopservice\webshopservice\obj\Debug\webshopservice.pdb
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.dll.config
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.dll
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\bin\Debug\webshopservice.pdb
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\obj\Debug\webshopservice.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\obj\Debug\webshopservice.dll
+C:\Users\Toshko\Dropbox\SecondYearFontys\CSA\webshopservice\webshopservice\obj\Debug\webshopservice.pdb

@@ -1,0 +1,36 @@
+c:\users\toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe.config
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\bin\Debug\Clientweek2.pdb
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Form1.resources
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Properties.Resources.resources
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csproj.GenerateResource.Cache
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.exe
+C:\Users\Toshko\documents\visual studio 2012\Projects\Clientweek2\Clientweek2\obj\Debug\Clientweek2.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe.config
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.exe
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Form1.resources
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Properties.Resources.resources
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csproj.GenerateResource.Cache
+D:\csa\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe.config
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.exe
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.pdb
+D:\csa\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe
+D:\csa\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.pdb
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csprojResolveAssemblyReference.cache
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Form1.resources
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Properties.Resources.resources
+D:\csa\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csproj.GenerateResource.Cache
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe.config
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.exe
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.pdb
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csprojResolveAssemblyReference.cache
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Form1.resources
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.Properties.Resources.resources
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\obj\Debug\Clientweek2.csproj.GenerateResource.Cache
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.exe
+C:\Fontys\webshopservice\Clientweek2\Clientweek2\bin\Debug\Clientweek2.pdb

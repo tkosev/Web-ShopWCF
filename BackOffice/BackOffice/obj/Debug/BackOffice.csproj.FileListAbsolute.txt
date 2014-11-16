@@ -1,0 +1,36 @@
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\bin\Debug\BackOffice.exe.config
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.csprojResolveAssemblyReference.cache
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.Form1.resources
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.Cache
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\bin\Debug\BackOffice.exe
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\bin\Debug\BackOffice.pdb
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.exe
+c:\users\toshko\documents\visual studio 2012\Projects\BackOffice\BackOffice\obj\Debug\BackOffice.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe.config
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.exe
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.pdb
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csprojResolveAssemblyReference.cache
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Form1.resources
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+C:\Users\Toshko\Documents\Visual Studio 2012\Projects\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.Cache
+D:\csa\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe.config
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.exe
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.pdb
+D:\csa\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe
+D:\csa\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.pdb
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csprojResolveAssemblyReference.cache
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Form1.resources
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+D:\csa\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.Cache
+C:\Fontys\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe.config
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.exe
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.pdb
+C:\Fontys\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.exe
+C:\Fontys\webshopservice\BackOffice\BackOffice\bin\Debug\BackOffice.pdb
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csprojResolveAssemblyReference.cache
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Form1.resources
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.Properties.Resources.resources
+C:\Fontys\webshopservice\BackOffice\BackOffice\obj\Debug\BackOffice.csproj.GenerateResource.Cache
